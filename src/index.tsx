@@ -1,3 +1,6 @@
+//const view1 = <div>Hello</div>;
+//console.log(view1);
+
 document.getElementById("app").innerHTML = `
 <h1>Hello Parcel!</h1>
 <div>
