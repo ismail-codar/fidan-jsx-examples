@@ -9,7 +9,7 @@
     "yalc-link": "yalc link @fidanjs/runtime & yalc link @fidanjs/jsx & yalc link @fidanjs/babel-plugin-fidan-jsx & yalc link @fidanjs/integration-react"
   },
   "dependencies": {
-    "@fidanjs/jsx": "^0.0.8",
+    "@fidanjs/jsx": "^0.0.9",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "rxjs": "^6.5.2",
