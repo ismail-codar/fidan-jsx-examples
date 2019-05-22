@@ -1,7 +1,5 @@
 {
   "plugins": [
-    [
-      "@fidanjs/fidan-jsx"
-    ]
+    "@fidanjs/fidan-jsx"
   ]
 }
